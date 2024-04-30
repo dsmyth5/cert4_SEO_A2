@@ -1,0 +1,30 @@
+/* light theme */
+
+:root{
+	--color-nav-btn: rgb(161, 205, 255);
+	--color-nav-bg:  rgba(117, 182, 219, 0.8);
+	/* background */
+	--color-primary: rgb(255, 255, 255);
+	/* bg shades  */
+	--color-bg-prime: rgb(243, 243, 243);
+	--color-bg-second: rgb(185, 185, 185);
+	/* font colors */
+	--color-font-prime: rgb(0, 0, 0);
+	--color-font-second: rgb(255, 255, 255);
+
+	/* boarder colors */
+	--color-border-light: rgb(134, 154, 161);
+	--color-border-med: rgb(58, 58, 58);
+	--color-border-dark: rgb(51, 51, 51);
+	--color-border-img: rgb(124 124 124);
+	--color-border-active: rgb(243, 243, 243);
+
+	--image-theme: url("../img/moon_black.svg" ); /*night.png")*/
+	--image-bean: url("../img/bean_white1.svg");
+	/* --color-buttons: rgb(200, 150, 100); */
+	/* --color-menu-trans:  rgba(214, 181, 138, 0.521); */
+	/* --color-blue-light: rgb(149, 198, 253); */
+	/* --color-blue-light-trans: rgba(74, 152, 241, 0.719); */
+	/* --color-blue-dark: rgb(0, 119, 255); */
+	/* --color-buttons: rgba(74, 152, 241, 0.719); */
+}
