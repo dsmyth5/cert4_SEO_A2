@@ -1,0 +1,4 @@
+contact.html
+events.html
+index.html
+menu.html
