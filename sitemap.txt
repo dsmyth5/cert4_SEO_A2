@@ -1,4 +1,4 @@
-http://dave-cert4-seo-a2.pages.dev/contact.html
-http://dave-cert4-seo-a2.pages.dev/events.html
-http://dave-cert4-seo-a2.pages.dev/index.html
-http://dave-cert4-seo-a2.pages.dev/menu.html
+https://sunsetcafesand.pages.dev/contact.html
+https://sunsetcafesand.pages.dev/events.html
+https://sunsetcafesand.pages.dev/index.html
+https://sunsetcafesand.pages.dev/menu.html
