@@ -1,4 +1,4 @@
-contact.html
-events.html
-index.html
-menu.html
+http://dave-cert4-seo-a2.pages.dev/contact.html
+http://dave-cert4-seo-a2.pages.dev/events.html
+http://dave-cert4-seo-a2.pages.dev/index.html
+http://dave-cert4-seo-a2.pages.dev/menu.html
